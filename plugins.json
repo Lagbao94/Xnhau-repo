@@ -1,0 +1,17 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://xnhau.plus&sz=256",
+    "fileHash": "sha256-439ffdc01eda1bbfede1191a9f786e64618234a4dc727036f3ac072822781e2f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/USERNAME/xnhau-repo",
+    "fileSize": 23264,
+    "status": 1,
+    "language": "vi",
+    "authors": ["you"],
+    "tvTypes": ["NSFW"],
+    "version": 4,
+    "internalName": "Xnhau",
+    "url": "https://raw.githubusercontent.com/USERNAME/xnhau-repo/main/Xnhau.cs3",
+    "name": "Xnhau"
+  }
+]
