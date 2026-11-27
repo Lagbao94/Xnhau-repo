@@ -1,8 +1,0 @@
-{
-  "name": "Xnhau Repo",
-  "description": "Xnhau plugin (patched domains)",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/lagbao94/xnhau-repo/main/plugins.json"
-  ]
-}
