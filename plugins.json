@@ -1,17 +1,17 @@
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://xnhau.plus&sz=256",
-    "fileHash": "sha256-439ffdc01eda1bbfede1191a9f786e64618234a4dc727036f3ac072822781e2f",
+    "fileHash": "sha256-2f6253d9dd173248b664276271748279517de10e6ba4492818639aa7e32fe76a",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lagbao94/xnhau-repo",
-    "fileSize": 23264,
+    "repositoryUrl": "https://github.com/Lagbao94/Xnhau-repo",
+    "fileSize": 23266,
     "status": 1,
     "language": "vi",
     "authors": ["you"],
     "tvTypes": ["NSFW"],
     "version": 4,
     "internalName": "Xnhau",
-    "url": "https://raw.githubusercontent.com/lagbao94/xnhau-repo/main/Xnhau.cs3",
+    "url": "https://raw.githubusercontent.com/Lagbao94/Xnhau-repo/main/Xnhau.cs3",
     "name": "Xnhau"
   }
 ]
